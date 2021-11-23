@@ -1,0 +1,21 @@
+@import url('../css/fonts.css');
+@import url('../css/header.css');
+@import url('../css/menu.css');
+@import url('../css/promo.css');
+@import url('../css/nestoy.css'); 
+@import url('../css/life.css'); 
+@import url('../css/nessesary.css '); 
+
+
+@import url('../css/media.css'); 
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+}

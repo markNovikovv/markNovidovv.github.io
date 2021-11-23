@@ -1,0 +1,94 @@
+.nestroy{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    padding-top: 74px;
+    padding-right: 92px;
+    min-height: 608px;
+    background: url('../img/second_bg.jpg') no-repeat;
+}
+.nestoy_title_wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.nestoy_title{
+
+    padding-top: 150px;
+    font-family: HeliosExtThin;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #441D06;
+}
+.art{
+    max-width: 489px;
+    max-height: 223px;
+    padding: 0 0 50px 37px ;
+    background: rgba(255, 255, 255, 0.78);
+    backdrop-filter: blur(4px);
+}
+.art_title{
+    padding-top: 57px;
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.art_txt{
+    padding-top: 14px;
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+
+}
+.nestoy_wrapper{
+    display: flex;
+}
+.nestoy_spisok{
+    padding-left: 70px;
+    list-style: none;
+
+}
+.nestoy_spisok li{
+    padding-top: 70px;
+    font-family: OpenSans;
+    font-style: normal;
+    font-size: 24px;
+    color: #441D06;
+    
+}
+.nestoy_spisok:last-child{
+    padding-bottom: 0;
+
+}
+.punkt_one{
+    padding-top: 0;
+    font-weight: bold;
+}
+.nest_wrapper{
+    display: flex;
+    align-items: center;
+    padding-left: 170px;
+    max-width: 1498px;
+    min-height: 186px;
+    background: #441D06;
+}
+.nest_inf{
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.nest_color{
+    color:#FFFFFF;
+}
+.nest_padding{
+    padding-left: 175px;
+}

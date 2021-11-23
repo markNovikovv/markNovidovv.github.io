@@ -1,0 +1,64 @@
+.promo{
+    background: url('../img/main_bg.jpg')right center no-repeat;
+
+    padding-top: 120px;
+
+}
+.promo_wrapper{
+    padding-bottom: 220px;
+}
+.promo_main_block{
+    width: 70%;
+    padding-bottom: 100px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.63) 63.22%, rgba(255, 255, 255, 0.4347) 164.28%);
+    backdrop-filter: blur(4px);
+}
+h1{
+    font-family: HeliosExtThin;
+    font-weight: 100;
+    font-size: 72px;
+
+    text-transform: uppercase;
+
+    color: #441D06;
+}
+.sub_title_block{
+    padding-top: 40px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.sub_title{
+    padding-bottom: 20px;
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #000000;
+}
+.krug{
+    width: 78px;
+    height: 78px;
+    background: #FF9900;
+    border-radius: 100%;
+}
+.krug{
+    width: 78px;
+    height: 78px;
+    background: #FF9900;
+    border-radius: 100%;
+
+}
+.krug_txt{
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+    transform: translateX(-12px);
+}
+.krug_wrapper{
+    display: flex;
+    align-items: center;
+}

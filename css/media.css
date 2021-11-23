@@ -1,0 +1,226 @@
+@media(max-width:1650px){
+    .promo{
+        padding-top: 100px;
+    }
+    h1{
+        font-size: 68px;
+    }
+}
+@media(max-width:1440px){
+    .nessesary_footer{
+        height: 100%;
+    }
+
+}
+@media(max-width:1200px){
+
+    .promo{
+        padding-bottom: 100px;
+    }
+    h1{
+        font-size: 45px;
+    }
+    .sub_title{
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .sub_title_block{
+        padding-left: 50px;
+    }
+
+    .nestoy_title{
+        font-size: 45px;
+        padding-top: 20px;
+
+    }
+    .nessesary_title{
+        font-size: 44px;
+
+    }
+    .nessesary_subtitle{
+        font-size: 14px;
+    }
+    .nessesary_footer{
+        height: 100%;
+    }
+    .ness_foot_txt{
+        font-size: 18px;
+    }
+}
+@media(max-width:991px){
+    .promo{
+        position: relative;
+        z-index: -10;
+        padding-bottom: 200px;
+    }
+    .promo_main_block{
+        width: 70%;
+    }
+    h1{
+        font-size: 35px;
+    }
+    .sub_title{
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .krug{
+        width: 50px;
+        height: 50px;
+    }
+    .krug_txt{
+        font-size: 10px;
+    }
+    .header_logo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .nestoy_title{
+        font-size: 35px;
+        text-align: center;
+
+    }
+    .nestoy_wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .nestoy_spisok li{
+        padding-top: 30px;
+    }
+    .nest_wrapper{
+        padding-left: 20px;
+       
+    }
+
+
+    .nessesary_title{
+        font-size: 34px;
+    }
+    .nessesary_subtitle{
+        font-size: 12px;
+    }
+    .ness_foot_txt{
+        font-size: 16px;
+    }
+
+
+}
+@media(max-width:768px){
+    .promo_wrapper{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .promo_main_block{
+        width: 70%;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+    .sub_title{
+        font-size: 14px;
+        padding-bottom: 5px;
+
+    }
+    .sub_title_block{
+        padding-left: 20px;
+    }
+
+    .header_burger{
+        padding-left: 40px;
+    }
+    .nestoy_title{
+        font-size: 30px;
+
+    }
+    .nestroy{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nest_wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .art_title{
+        font-size: 18px;
+    }
+    .art_txt{
+        font-size: 14px;
+    }
+
+    .nest_inf{
+        font-size: 16px;
+    }
+    .life_title{
+        font-size: 38px;
+        text-align: center;
+    }
+    .life_wrapper{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .main_life_wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+    .nessesary_wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+    .ness_title_wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+}
+@media(max-width:576px){
+    .header_row{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .promo{
+        padding-bottom: 200px;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .nestoy_title{
+        font-size: 20px;
+
+    }
+    .art{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .art_title{
+        font-size: 16px;
+    }
+    .art_txt{
+        font-size: 12px;
+    }
+    .nest_inf{
+        font-size: 12px;
+    }
+    .nessesary_title{
+        font-size: 24px;
+    }
+    .nessesary_footer{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+}

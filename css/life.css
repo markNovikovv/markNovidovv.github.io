@@ -1,0 +1,58 @@
+.life{
+    padding-top: 118px;
+    padding-bottom: 160px;
+    background: #FFF9EF;
+}
+.life_title{
+    font-family: HeliosExtThin;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #441D06;
+    padding-bottom: 67px;
+}
+.life_wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.main_life_wrapper{
+    display: flex;
+    align-items:flex-end;
+}
+.life_box{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.life_img{
+    text-align: center;
+}
+.life_box_title{
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+
+    text-align: center;
+    text-transform: uppercase;
+    color: #441D06;
+    padding-top: 52px;
+    padding-bottom: 33px;
+}
+.life_descr{
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+
+    color: #000000;
+}
+.life_box{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}

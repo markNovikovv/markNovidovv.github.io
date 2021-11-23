@@ -1,0 +1,86 @@
+header{
+    padding-top: 11px ;
+}
+.header_row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_logo{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_location{
+    display: flex;
+    align-items: center;
+    font-family: OpenSans;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+}
+
+.header_part_2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .call_and_menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.order_call{
+    padding-top: 15px;
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #441D06;
+    cursor: pointer;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000000;
+
+}
+.phone_num{
+    padding-left: 10px;
+}
+.icon_phone{
+    padding-left: 16px;
+}
+/* menu */
+.header_burger{
+    padding-left: 80px;
+    cursor: pointer;
+}
+.burger_f{
+    width: 14px;
+    height: 2px;
+    background: #441D06;
+}
+.burger_s{
+    width: 22px;
+    height: 2px;
+    margin-top: 12px;
+
+    background: #441D06;
+
+}
+.burger_t{
+    width: 30px;
+    height: 2px;
+    margin-top: 12px;
+
+    background: #441D06;
+
+}
